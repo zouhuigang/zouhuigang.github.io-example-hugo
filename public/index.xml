@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>蓝蓝的小火苗 (www.anooc.com) </title>
+    <link>https://zouhuigang.github.io/</link>
+    <description>Recent content on 蓝蓝的小火苗 (www.anooc.com) </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 15:53:11 +0800</lastBuildDate>
+    <atom:link href="https://zouhuigang.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://zouhuigang.github.io/about/</link>
+      <pubDate>Tue, 30 Jan 2018 15:53:11 +0800</pubDate>
+      
+      <guid>https://zouhuigang.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
